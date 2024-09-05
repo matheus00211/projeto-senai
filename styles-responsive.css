@@ -1,0 +1,11 @@
+
+@media (max-witdh: 600px) {
+.grid-container {
+   grid-template-colums: 1fr 2fr 3fr 4fr;
+
+}
+.grid-item {
+   font-size: 20px;
+   padding: 150 px;
+}
+}
